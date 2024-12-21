@@ -7,9 +7,9 @@ if ($_SERVER['SERVER_NAME'] == 'localhost') {
     $password = "";
     $dbname = "fotondecors";
 } else {
-    $username = " "; 
-    $password = " ";
-    $dbname = " ";
+    $username = "fotondecors"; 
+    $password = "Ptkrj8quvNisHob";
+    $dbname = "fotondecors";
 }
 
 // Create connection
