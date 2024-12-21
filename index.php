@@ -102,10 +102,24 @@
   <section class="ftco-section ftc-no-pb  need_space">
     <div class="container">
       <div class="row no-gutters">
+
+      
         <div
-          class="col-md-5 p-md-5 img img-2"
-          style="background-image: url(images/bg_3.jpg)"></div>
-        <div class="col-md-7 wrap-about pb-md-5 ftco-animate">
+          class="col-md-6 need_center">
+          <div class="container my-4 ">
+
+
+            <div class="video-container  ">
+              <video   width="100%" autoplay loop controls  >
+                <source src="images/Foton decors all services.mp4" type="video/mp4">
+                Your browser does not support the video tag.
+              </video>
+            </div>
+          </div>
+
+
+        </div>
+        <div class="col-md-6 wrap-about pb-md-5 ftco-animate">
           <div class="heading-section mb-5 pl-md-5">
             <div class="pl-md-5 ml-md-5">
               <span class="subheading subheading-with-line"><small class="pr-2 bg-white">About</small></span>

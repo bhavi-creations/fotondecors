@@ -2,7 +2,7 @@
 <html lang="en">
 
 <head>
-<title>Foton Decors</title>
+  <title>Foton Decors</title>
   <link href="images/favicon.png" rel="icon">
   <meta charset="utf-8" />
   <meta
@@ -60,7 +60,11 @@
       <div class="row no-gutters">
         <div
           class="col-md-5 p-md-5 img img-2"
-          style="background-image: url(images/bg_3.jpg)"></div>
+          style="background-image: url(images/bg_3.jpg)">
+        
+        
+        
+        </div>
         <div class="col-md-7 wrap-about pb-md-5 ftco-animate">
           <div class="heading-section mb-5 pl-md-5">
             <div class="pl-md-5 ml-md-5">

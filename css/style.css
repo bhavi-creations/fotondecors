@@ -14090,3 +14090,19 @@ padding-bottom: 10px !important;
  .need_space_service{
   margin-top: -50px;
  }
+
+
+
+ .video-container {
+  position: relative;
+  overflow: hidden;
+  border-radius: 12px; /* Optional: Rounds the corners */
+  box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.2); /* Optional: Adds a shadow */
+}
+
+
+.need_center{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
