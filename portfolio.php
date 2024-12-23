@@ -50,6 +50,112 @@
     </section>
 
 
+    <section class="ftco-section testimony-section bg-light">
+    <div class="container">
+      <div class="row justify-content-center mb-5 pb-3">
+        <div class="col-md-7 heading-section ftco-animate">
+          <span class="subheading subheading-with-line"><small class="pr-2 bg-light">About</small></span>
+          <h2 class="mb-4">About Our Company</h2>
+          <p>
+            Established in the year 2014 at Vijayawada (Andhra Pradesh,
+            India), we “Foton Decors” are recognized as the prominent
+            Manufacturer of Designer Doors, House Windows, Designer Partition,
+            Decorative Ceilings, Modular Furniture, etc. In addition to this,
+            we also provide Bedroom Interior Design Services, Kitchens Design
+            Services, etc. to our clients. Our company is Sole Proprietorship
+            (Individual) based company. Under the supervision of our
+            Proprietor “K. Raja Bhaskar Reddy”, we have been able to get a
+            remarkable name in this industry.
+          </p>
+        </div>
+      </div>
+
+
+    </div>
+  </section>
+
+  <section
+    class="ftco-section ftco-counter img"
+    id="section-counter"
+    style="background-image: url(images/bg_3.jpg)"
+    data-stellar-background-ratio="0.5">
+    <div class="container">
+      <div class="row d-md-flex align-items-center justify-content-end">
+        <div class="col-lg-10">
+          <div class="row d-md-flex align-items-center">
+            <div
+              class="col-md d-flex justify-content-center counter-wrap ftco-animate">
+              <div class="block-18">
+                <div class="text">
+                  <strong class="number" data-number="18">0</strong>
+                  <span>Years of Experienced</span>
+                </div>
+              </div>
+            </div>
+            <div
+              class="col-md d-flex justify-content-center counter-wrap ftco-animate">
+              <div class="block-18">
+                <div class="text">
+                  <strong class="number" data-number="351">0</strong>
+                  <span>Happy Clients</span>
+                </div>
+              </div>
+            </div>
+            <div
+              class="col-md d-flex justify-content-center counter-wrap ftco-animate">
+              <div class="block-18">
+                <div class="text">
+                  <strong class="number" data-number="564">0</strong>
+                  <span>Finished Projects</span>
+                </div>
+              </div>
+            </div>
+            <div
+              class="col-md d-flex justify-content-center counter-wrap ftco-animate">
+              <div class="block-18">
+                <div class="text">
+                  <strong class="number" data-number="300">0</strong>
+                  <span>Working Days</span>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section>
+    <div class="container">
+      <div class="row my-5 pt-4">
+        <div class="col-md-4 ftco-animate">
+          <h3 class="h4">Mission</h3>
+          <p>
+            At Foton Decors, we aim to create innovative, functional, and
+            timeless designs that inspire and enhance spaces, tailored to our
+            clients' needs.
+          </p>
+        </div>
+        <div class="col-md-4 ftco-animate">
+          <h3 class="h4">Vision</h3>
+          <p>
+            To be a leading architectural design firm, known for creativity,
+            precision, and quality, shaping modern spaces that reflect our
+            clients' individuality.
+          </p>
+        </div>
+        <div class="col-md-4 ftco-animate">
+          <h3 class="h4">Target</h3>
+          <p>
+            We focus on delivering exceptional residential, commercial, and
+            bespoke design solutions, building lasting relationships with
+            clients through innovative and smart designs.
+          </p>
+        </div>
+      </div>
+    </div>
+  </section>
+
 
 
     <?php include('./footer.php'); ?>
