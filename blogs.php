@@ -59,7 +59,7 @@ include './db.connection/db_connection.php';
 
 
 
-    <div class="container  blog_container" >
+    <div class="container  blog_container">
 
       <div class="container mb-5">
 

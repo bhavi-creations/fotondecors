@@ -21,13 +21,23 @@
                   >
                 </li>
                 <li>
-                  <a href="services.php"
-                    ><span class="icon-long-arrow-right mr-2"></span>Services</a
+                  <a href="products.php"
+                    ><span class="icon-long-arrow-right mr-2"></span>Products</a
                   >
                 </li>
                 <li>
                   <a href="blogs.php"
                     ><span class="icon-long-arrow-right mr-2"></span>Gallery</a
+                  >
+                </li>
+                <li>
+                  <a href="dealers.php"
+                    ><span class="icon-long-arrow-right mr-2"></span>Dealers</a
+                  >
+                </li>
+                <li>
+                  <a href="portfolio.php"
+                    ><span class="icon-long-arrow-right mr-2"></span>Portfolio</a
                   >
                 </li>
                 <li>
@@ -42,29 +52,19 @@
             <div class="ftco-footer-widget mb-4">
               <h2 class="ftco-heading-2">Services</h2>
               <ul class="list-unstyled">
+
                 <li>
-                  <a href="design.php"
-                    ><span class="icon-long-arrow-right mr-2"></span>Design</a
+                  <a href="interior.php"
+                    ><span class="icon-long-arrow-right mr-2"></span>Interior and Architectural Solutions </a
                   >
                 </li>
                 <li>
-                  <a href="fotondoors.php"
-                    ><span class="icon-long-arrow-right mr-2"></span>Foton
-                    Doors</a
+                  <a href="metalworks.php"
+                    ><span class="icon-long-arrow-right mr-2"></span> 
+                    Metal Processing and Finishing Services</a
                   >
                 </li>
-                <li>
-                  <a href="pvcdoors.php"
-                    ><span class="icon-long-arrow-right mr-2"></span>PVC
-                    Doors</a
-                  >
-                </li>
-                <li>
-                  <a href="kitchen.php"
-                    ><span class="icon-long-arrow-right mr-2"></span>Stylish
-                    Kitchens</a
-                  >
-                </li>
+                 
               </ul>
             </div>
           </div>

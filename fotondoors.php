@@ -79,144 +79,144 @@
             </div>
         </div>
         <div class="container-wrap">
-            <div class="row no-gutters">
-                <div class="col-md-6 col-lg-3 ftco-animate">
-                    <div class="project">
-                        <img
-                            src="images/doors/1.png"
-                            class="img-fluid"
-                            alt="Colorlib Template" />
-                        <div class="text">
-                            <!-- <span>Interior Design</span>
-                            <h3><a href="project.html">Office Interior Design</a></h3> -->
+                <div class="row no-gutters">
+                    <div class="col-md-6 col-lg-3 ftco-animate">
+                        <div class="project">
+                            <img
+                                src="images/doors/1.png"
+                                class="img-fluid"
+                                alt="Colorlib Template" />
+                            <div class="text">
+                                <!-- <span>Interior Design</span>
+                                <h3><a href="project.html">Office Interior Design</a></h3> -->
+                            </div>
+                            <a
+                                href="images/doors/1.png"
+                                class="icon image-popup d-flex justify-content-center align-items-center">
+                                <span class="icon-expand"></span>
+                            </a>
                         </div>
-                        <a
-                            href="images/doors/1.png"
-                            class="icon image-popup d-flex justify-content-center align-items-center">
-                            <span class="icon-expand"></span>
-                        </a>
+                    </div>
+                    <div class="col-md-6 col-lg-3 ftco-animate">
+                        <div class="project">
+                            <img
+                                src="images/doors/2.png"
+                                class="img-fluid"
+                                alt="Colorlib Template" />
+                            <div class="text">
+                                <!-- <span>Interior Design</span>
+                                <h3>Office Interior Design</h3> -->
+                            </div>
+                            <a
+                                href="images/doors/2.png"
+                                class="icon image-popup d-flex justify-content-center align-items-center">
+                                <span class="icon-expand"></span>
+                            </a>
+                        </div>
+                    </div>
+                    <div class="col-md-6 col-lg-3 ftco-animate">
+                        <div class="project">
+                            <img
+                                src="images/doors/3.png"
+                                class="img-fluid"
+                                alt="Colorlib Template" />
+                            <div class="text">
+                                <!-- <span>Interior Design</span>
+                                <h3>Office Interior Design</h3> -->
+                            </div>
+                            <a
+                                href="images/doors/3.png"
+                                class="icon image-popup d-flex justify-content-center align-items-center">
+                                <span class="icon-expand"></span>
+                            </a>
+                        </div>
+                    </div>
+                    <div class="col-md-6 col-lg-3 ftco-animate">
+                        <div class="project">
+                            <img
+                                src="images/doors/4.png"
+                                class="img-fluid"
+                                alt="Colorlib Template" />
+                            <div class="text">
+                                <!-- <span>Interior Design</span>
+                                <h3>Office Interior Design</h3> -->
+                            </div>
+                            <a
+                                href="images/doors/4.png"
+                                class="icon image-popup d-flex justify-content-center align-items-center">
+                                <span class="icon-expand"></span>
+                            </a>
+                        </div>
+                    </div>
+                    <div class="col-md-6 col-lg-3 ftco-animate">
+                        <div class="project">
+                            <img
+                                src="images/doors/5.png"
+                                class="img-fluid"
+                                alt="Colorlib Template" />
+                            <div class="text">
+                                <!-- <span>Landscape Design</span>
+                                <h3>Office Interior Design</h3> -->
+                            </div>
+                            <a
+                                href="images/doors/5.png"
+                                class="icon image-popup d-flex justify-content-center align-items-center">
+                                <span class="icon-expand"></span>
+                            </a>
+                        </div>
+                    </div>
+                    <div class="col-md-6 col-lg-3 ftco-animate">
+                        <div class="project">
+                            <img
+                                src="images/doors/6.png"
+                                class="img-fluid"
+                                alt="Colorlib Template" />
+                            <div class="text">
+                                <!-- <span>Exterior Design</span>
+                                <h3>Office Interior Design</h3> -->
+                            </div>
+                            <a
+                                href="images/doors/6.png"
+                                class="icon image-popup d-flex justify-content-center align-items-center">
+                                <span class="icon-expand"></span>
+                            </a>
+                        </div>
+                    </div>
+                    <div class="col-md-6 col-lg-3 ftco-animate">
+                        <div class="project">
+                            <img
+                                src="images/doors/7.png"
+                                class="img-fluid"
+                                alt="Colorlib Template" />
+                            <div class="text">
+                                <!-- <span>Exterior Design</span>
+                                <h3>Office Interior Design</h3> -->
+                            </div>
+                            <a
+                                href="images/doors/7.png"
+                                class="icon image-popup d-flex justify-content-center align-items-center">
+                                <span class="icon-expand"></span>
+                            </a>
+                        </div>
+                    </div>
+                    <div class="col-md-6 col-lg-3 ftco-animate">
+                        <div class="project">
+                            <img
+                                src="images/doors/8.png"
+                                class="img-fluid"
+                                alt="Colorlib Template" />
+                            <div class="text">
+                                <!-- <span>Interior Design</span>
+                                <h3>Office Interior Design</h3> -->
+                            </div>
+                            <a
+                                href="images/doors/8.png"
+                                class="icon image-popup d-flex justify-content-center align-items-center">
+                                <span class="icon-expand"></span>
+                            </a>
+                        </div>
                     </div>
                 </div>
-                <div class="col-md-6 col-lg-3 ftco-animate">
-                    <div class="project">
-                        <img
-                            src="images/doors/2.png"
-                            class="img-fluid"
-                            alt="Colorlib Template" />
-                        <div class="text">
-                            <!-- <span>Interior Design</span>
-                            <h3>Office Interior Design</h3> -->
-                        </div>
-                        <a
-                            href="images/doors/2.png"
-                            class="icon image-popup d-flex justify-content-center align-items-center">
-                            <span class="icon-expand"></span>
-                        </a>
-                    </div>
-                </div>
-                <div class="col-md-6 col-lg-3 ftco-animate">
-                    <div class="project">
-                        <img
-                            src="images/doors/3.png"
-                            class="img-fluid"
-                            alt="Colorlib Template" />
-                        <div class="text">
-                            <!-- <span>Interior Design</span>
-                            <h3>Office Interior Design</h3> -->
-                        </div>
-                        <a
-                            href="images/doors/3.png"
-                            class="icon image-popup d-flex justify-content-center align-items-center">
-                            <span class="icon-expand"></span>
-                        </a>
-                    </div>
-                </div>
-                <div class="col-md-6 col-lg-3 ftco-animate">
-                    <div class="project">
-                        <img
-                            src="images/doors/4.png"
-                            class="img-fluid"
-                            alt="Colorlib Template" />
-                        <div class="text">
-                            <!-- <span>Interior Design</span>
-                            <h3>Office Interior Design</h3> -->
-                        </div>
-                        <a
-                            href="images/doors/4.png"
-                            class="icon image-popup d-flex justify-content-center align-items-center">
-                            <span class="icon-expand"></span>
-                        </a>
-                    </div>
-                </div>
-                <div class="col-md-6 col-lg-3 ftco-animate">
-                    <div class="project">
-                        <img
-                            src="images/doors/5.png"
-                            class="img-fluid"
-                            alt="Colorlib Template" />
-                        <div class="text">
-                            <!-- <span>Landscape Design</span>
-                            <h3>Office Interior Design</h3> -->
-                        </div>
-                        <a
-                            href="images/doors/5.png"
-                            class="icon image-popup d-flex justify-content-center align-items-center">
-                            <span class="icon-expand"></span>
-                        </a>
-                    </div>
-                </div>
-                <div class="col-md-6 col-lg-3 ftco-animate">
-                    <div class="project">
-                        <img
-                            src="images/doors/6.png"
-                            class="img-fluid"
-                            alt="Colorlib Template" />
-                        <div class="text">
-                            <!-- <span>Exterior Design</span>
-                            <h3>Office Interior Design</h3> -->
-                        </div>
-                        <a
-                            href="images/doors/6.png"
-                            class="icon image-popup d-flex justify-content-center align-items-center">
-                            <span class="icon-expand"></span>
-                        </a>
-                    </div>
-                </div>
-                <div class="col-md-6 col-lg-3 ftco-animate">
-                    <div class="project">
-                        <img
-                            src="images/doors/7.png"
-                            class="img-fluid"
-                            alt="Colorlib Template" />
-                        <div class="text">
-                            <!-- <span>Exterior Design</span>
-                            <h3>Office Interior Design</h3> -->
-                        </div>
-                        <a
-                            href="images/doors/7.png"
-                            class="icon image-popup d-flex justify-content-center align-items-center">
-                            <span class="icon-expand"></span>
-                        </a>
-                    </div>
-                </div>
-                <div class="col-md-6 col-lg-3 ftco-animate">
-                    <div class="project">
-                        <img
-                            src="images/doors/8.png"
-                            class="img-fluid"
-                            alt="Colorlib Template" />
-                        <div class="text">
-                            <!-- <span>Interior Design</span>
-                            <h3>Office Interior Design</h3> -->
-                        </div>
-                        <a
-                            href="images/doors/8.png"
-                            class="icon image-popup d-flex justify-content-center align-items-center">
-                            <span class="icon-expand"></span>
-                        </a>
-                    </div>
-                </div>
-            </div>
         </div>
     </section>
 
