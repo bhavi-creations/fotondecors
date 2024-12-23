@@ -52,7 +52,7 @@
 
 
     <section>
-        <h3 class="text-center blog_heading mt-5"> Our Dealers</h3>
+        <h1 class="text-center blog_heading_grey mt-5"> Our Dealers</h1>
         <div class="container">
 
             <h3 class="text-center blog_heading mt-5"> From Andhra Pradesh</h3>

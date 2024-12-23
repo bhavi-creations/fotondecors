@@ -14091,7 +14091,10 @@ padding-bottom: 10px !important;
   margin-top: 70px !important;
  }
 
-
+.blog_heading_grey{
+  font-weight: 800 ;
+color: grey;
+}
  .blog_heading{
   margin-bottom: 30px;
   font-weight: 700;
