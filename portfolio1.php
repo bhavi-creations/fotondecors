@@ -126,7 +126,7 @@
     </div>
   </section>
 
-  <!-- <section class="exterior mt-2">
+  <section class="exterior mt-2">
     <div class="container">
       <div class="row">
         <div class="col-12 col-md-6">
@@ -158,40 +158,40 @@
 
 
       <!-- Add this JavaScript -->
-      <!-- <script>
+      <script>
         document.addEventListener("DOMContentLoaded", function() {
           const sliderItems = document.querySelectorAll(".slider-item");
           let currentIndex = 0;
 
-    e
+          // Function to move to the next slide
           function showNextSlide() {
-         
+            // Remove 'active' class from the current slide
             sliderItems[currentIndex].classList.remove("active");
 
-        
+            // Increment the index, and loop back to the first slide if we reach the last
             currentIndex = (currentIndex + 1) % sliderItems.length;
 
-         
+            // Add 'active' class to the next slide
             sliderItems[currentIndex].classList.add("active");
           }
 
-        
+          // Initially show the first slide
           sliderItems[currentIndex].classList.add("active");
 
-        
+          // Change slide every 3 seconds (3000ms)
           setInterval(showNextSlide, 3000);
         });
-      </script> -->
+      </script>
 
 
-    <!-- </div>
     </div>
-  </section>  -->
+    </div>
+  </section>
 
   <div class="container">
     <div class="custom-slide-container swiper">
       <div class="custom-slide-content px-2 ">
-        <h1 class="text-center inter mt-4 ">our distributors</h1>
+        <h1 class="text-center  ">our distributors</h1>
         <div class="custom-card-wrapper swiper-wrapper py-5 ">
 
           <div class="custom-card custom_card_bg_one swiper-slide ">

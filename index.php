@@ -210,6 +210,60 @@
 
   <section class="ftco-services no_space">
     <div class="container">
+    >
+      
+      <div class="row justify-content-start mt-5  ">
+        <div class="col-md-4 heading-section ftco-animate">
+          <h2 class="mb-4">Our Products</h2>
+          <p>
+            we offer a range of innovative solutions to elevate your spaces:
+          </p>
+        </div>
+        <div class="col-md-8 ftco-animate">
+          <div class="row d-flex">
+            <div class="col-md-6 d-flex align-items-stretch">
+              <div
+                class="media block-6 services services-2 d-block bg-light p-4 mb-4">
+                <div
+                  class="icon d-flex justify-content-center align-items-center">
+                  <span class="flaticon-layers"></span>
+                </div>
+                <div class="media-body p-2 mt-3">
+                  <h3 class="heading">Interior and Architectural Solutions</h3>
+                  <p>
+                  Foton Decors provides innovative interior and architectural solutions, offering custom designs that blend functionality, style, and precision to transform residential and commercial spaces.
+                  </p>
+
+
+                  <p>
+                    <a href="Interior.php" class="btn-custom">Learn More <span class="ion-ios-arrow-forward"></span></a>
+                  </p>
+
+                </div>
+              </div>
+            </div>
+            <div class="col-md-6 d-flex align-items-stretch">
+              <div
+                class="media block-6 services services-2 d-block bg-light p-4 mb-4">
+                <div
+                  class="icon d-flex justify-content-center align-items-center">
+                  <span class="flaticon-layers"></span>
+                </div>
+                <div class="media-body p-2 mt-3">
+                  <h3 class="heading">Metal Processing and Finishing Services</h3>
+                  <p>
+                  Foton Decors offers expert metal processing and finishing services, delivering precision, durability, and high-quality results for various industrial, commercial, and custom projects.
+                  </p>
+                  <p>
+                    <a href="metalworks.php" class="btn-custom">Learn More <span class="ion-ios-arrow-forward"></span></a>
+                  </p>
+                </div>
+              </div>
+            </div>
+             
+          </div>
+        </div>
+      </div>
       <div class="row justify-content-start mb-5  ">
         <div class="col-md-4 heading-section ftco-animate">
           <h2 class="mb-4">Our Work Flow</h2>
@@ -222,7 +276,7 @@
             </p>
           </div>
         </div>
-      </div>
+</div>
       <div class="row">
         <div class="col-md-4 d-flex align-self-stretch ftco-animate">
           <div class="media block-6 services d-block">
@@ -266,86 +320,6 @@
                 "We smartly execute designs that inspire, function seamlessly,
                 and stand the test of time."
               </p>
-            </div>
-          </div>
-        </div>
-      </div>
-      <div class="row justify-content-start mt-5 pt-5">
-        <div class="col-md-4 heading-section ftco-animate">
-          <h2 class="mb-4">Our Services</h2>
-          <p>
-            we offer a range of innovative solutions to elevate your spaces:
-          </p>
-        </div>
-        <div class="col-md-8 ftco-animate">
-          <div class="row d-flex">
-            <div class="col-md-6 d-flex align-items-stretch">
-              <div
-                class="media block-6 services services-2 d-block bg-light p-4 mb-4">
-                <div
-                  class="icon d-flex justify-content-center align-items-center">
-                  <span class="flaticon-layers"></span>
-                </div>
-                <div class="media-body p-2 mt-3">
-                  <h3 class="heading">Design</h3>
-                  <p>
-                    Transform your vision into reality with our bespoke design
-                    services. From concept to completion, we create spaces
-                    that inspire and reflect your unique style.
-                  </p>
-                </div>
-              </div>
-            </div>
-            <div class="col-md-6 d-flex align-items-stretch">
-              <div
-                class="media block-6 services services-2 d-block bg-light p-4 mb-4">
-                <div
-                  class="icon d-flex justify-content-center align-items-center">
-                  <span class="flaticon-layers"></span>
-                </div>
-                <div class="media-body p-2 mt-3">
-                  <h3 class="heading">Foton Doors</h3>
-                  <p>
-                    Explore our premium collection of Foton Doors, designed to
-                    combine elegance and durability, making a statement for
-                    every entrance.
-                  </p>
-                </div>
-              </div>
-            </div>
-            <div class="col-md-6 d-flex align-items-stretch">
-              <div
-                class="media block-6 services services-2 d-block bg-light p-4 mb-4">
-                <div
-                  class="icon d-flex justify-content-center align-items-center">
-                  <span class="flaticon-layers"></span>
-                </div>
-                <div class="media-body p-2 mt-3">
-                  <h3 class="heading">PVC Doors</h3>
-                  <p>
-                    Discover the perfect blend of style and functionality with
-                    our high-quality PVC Doors, crafted for lasting
-                    performance and modern aesthetics.
-                  </p>
-                </div>
-              </div>
-            </div>
-            <div class="col-md-6 d-flex align-items-stretch">
-              <div
-                class="media block-6 services services-2 d-block bg-light p-4 mb-4">
-                <div
-                  class="icon d-flex justify-content-center align-items-center">
-                  <span class="flaticon-layers"></span>
-                </div>
-                <div class="media-body p-2 mt-3">
-                  <h3 class="heading">Stylish Kitchens</h3>
-                  <p>
-                    Upgrade your cooking experience with our stylish kitchen
-                    designs. We focus on smart layouts, elegant finishes, and
-                    practical features tailored to your needs.
-                  </p>
-                </div>
-              </div>
             </div>
           </div>
         </div>

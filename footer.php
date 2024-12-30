@@ -72,8 +72,7 @@
             <div class="ftco-footer-widget mb-4">
               <h2 class="ftco-heading-2">Address</h2>
               <p>
-                #27-23-15A, 1st Floor, Gopala Reddy Road, Governerpet,
-                VIJAYAWADA-520002
+              6-1-6, Jawahar St, near Nookalamma Temple, opposite Ganapathi Towers, Rama Rao Peta, Kakinada, Andhra Pradesh 533001
               </p>
               <p>
                 Call Us : +91 93464 19999, +91 99859 23333, +91 866 257 2578

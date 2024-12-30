@@ -47,7 +47,7 @@
         <div class="col-md-9 ftco-animate text-center">
           <h1 class="mb-2 bread">Contact Us</h1>
           <p class="breadcrumbs">
-            <span class="mr-2"><a href="index.html">Home <i class="ion-ios-arrow-forward"></i></a></span>
+            <span class="mr-2"><a href="index.php">Home <i class="ion-ios-arrow-forward"></i></a></span>
             <span>Contact <i class="ion-ios-arrow-forward"></i></span>
           </p>
         </div>
@@ -64,8 +64,7 @@
         <div class="w-100"></div>
         <div class="col-md-3">
           <p>
-            <span>Address:</span> #27-23-15A, 1st Floor, Gopala Reddy Road,
-            Governerpet, VIJAYAWADA-520002
+            <span>Address:</span> 6-1-6, Jawahar St, near Nookalamma Temple, opposite Ganapathi Towers, Rama Rao Peta, Kakinada, Andhra Pradesh 533001
           </p>
         </div>
         <div class="col-md-3">
@@ -139,7 +138,7 @@
           <div class="embed-responsive embed-responsive-16by9">
             <iframe
               class="embed-responsive-item"
-              src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3825.2867536118097!2d80.6188819749141!3d16.511614784233796!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3a35f01d53241ddf%3A0x1cedaab7af20908e!2sFoton%20Doors!5e0!3m2!1sen!2sin!4v1734754299696!5m2!1sen!2sin"
+              src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3145.439299931415!2d82.23179377413109!3d16.961383114939764!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3a38280cf0a20827%3A0x2534f4afbebca14!2s6-1-34%2F1%2C%20Jawahar%20St%2C%20beside%20Car%20World%2C%20Rama%20Rao%20Peta%2C%20Kakinada%2C%20Andhra%20Pradesh%20533001!5e1!3m2!1sen!2sin!4v1735556824899!5m2!1sen!2sin" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade">              
               style="border: 0"
               allowfullscreen=""
               loading="lazy"
