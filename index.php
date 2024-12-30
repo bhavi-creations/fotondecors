@@ -236,7 +236,7 @@
 
 
                   <p>
-                    <a href="Interior.php" class="btn-custom">Learn More <span class="ion-ios-arrow-forward"></span></a>
+                    <a href="interior.php" class="btn-custom">Learn More <span class="ion-ios-arrow-forward"></span></a>
                   </p>
 
                 </div>
