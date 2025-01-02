@@ -497,7 +497,7 @@
       <div class="row justify-content-center mb-5 pb-3">
         <div class="col-md-7 heading-section ftco-animate">
           <span class="subheading subheading-with-line"><small class="pr-2 bg-light">Testimony</small></span>
-          <h2 class="mb-4">Our satisfied customer says</h2>
+          <h2 class="mb-3">Our satisfied customer says</h2>
           <p>
             Our clients are at the heart of everything we do. Their
             satisfaction and trust inspire us to deliver exceptional designs
@@ -630,9 +630,9 @@
       </div>
     </div> -->
 
-      <div class="container">
-        <div class="custom-slide-container swiper">
-          <div class="custom-slide-content px-2 ">
+     
+        <div class="custom-slide-container swiper ">
+          <div class="custom-slide-content px-2 mt-3 ">
             <!-- <h1 class="text-center inter mt-4 ">our distributors</h1> -->
             <div class="custom-card-wrapper swiper-wrapper py-5 ">
 
@@ -782,7 +782,7 @@
           <!-- <div class="custom-swiper-pagination position_og_peagination"></div>
   </div> -->
         </div>
-      </div>
+     
       <script>
         var swiper = new Swiper(".custom-slide-content", {
           slidesPerView: 3,
