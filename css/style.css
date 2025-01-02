@@ -14277,15 +14277,15 @@ color: grey;
 .header-carousel .owl-nav .owl-next:hover {
   background:linear-gradient(135deg, #28a745,#98fb98f8 );;
 }
-/* 
-.home-sliders {
+
+.slider{
   position: relative;
   overflow: hidden; 
   width: 100%;
   height: 300px; 
 }
 
-.slider-item {
+.items{
   width: 100%; 
   height: 100%;
   background-size: cover; 
@@ -14295,6 +14295,10 @@ color: grey;
   transition: opacity 1s ease-in-out; 
 }
 
-.slider-item.active {
+.items.active {
   opacity: 1;
-} */
+}
+.strong{
+  color: grey;
+  font-weight: 700;
+}

@@ -31,6 +31,11 @@
   <link rel="stylesheet" href="css/flaticon.css" />
   <link rel="stylesheet" href="css/icomoon.css" />
   <link rel="stylesheet" href="css/style.css" />
+
+
+   <!-- image slider 3 images-->
+   <link rel="stylesheet" href="https://unpkg.com/swiper/swiper-bundle.min.css">
+  <script src="https://unpkg.com/swiper/swiper-bundle.min.js"></script>
 </head>
 
 <body>
@@ -103,14 +108,14 @@
     <div class="container">
       <div class="row no-gutters">
 
-      
+
         <div
           class="col-md-6 need_center">
           <div class="container my-4 ">
 
 
             <div class="video-container  ">
-              <video   width="100%" autoplay loop controls  >
+              <video width="100%" autoplay loop controls>
                 <source src="images/Foton decors all services.mp4" type="video/mp4">
                 Your browser does not support the video tag.
               </video>
@@ -210,8 +215,8 @@
 
   <section class="ftco-services no_space">
     <div class="container">
-    >
-      
+      >
+
       <div class="row justify-content-start mt-5  ">
         <div class="col-md-4 heading-section ftco-animate">
           <h2 class="mb-4">Our Products</h2>
@@ -231,7 +236,7 @@
                 <div class="media-body p-2 mt-3">
                   <h3 class="heading">Interior and Architectural Solutions</h3>
                   <p>
-                  Foton Decors provides innovative interior and architectural solutions, offering custom designs that blend functionality, style, and precision to transform residential and commercial spaces.
+                    Foton Decors provides innovative interior and architectural solutions, offering custom designs that blend functionality, style, and precision to transform residential and commercial spaces.
                   </p>
 
 
@@ -252,7 +257,7 @@
                 <div class="media-body p-2 mt-3">
                   <h3 class="heading">Metal Processing and Finishing Services</h3>
                   <p>
-                  Foton Decors offers expert metal processing and finishing services, delivering precision, durability, and high-quality results for various industrial, commercial, and custom projects.
+                    Foton Decors offers expert metal processing and finishing services, delivering precision, durability, and high-quality results for various industrial, commercial, and custom projects.
                   </p>
                   <p>
                     <a href="metalworks.php" class="btn-custom">Learn More <span class="ion-ios-arrow-forward"></span></a>
@@ -260,7 +265,7 @@
                 </div>
               </div>
             </div>
-             
+
           </div>
         </div>
       </div>
@@ -276,7 +281,7 @@
             </p>
           </div>
         </div>
-</div>
+      </div>
       <div class="row">
         <div class="col-md-4 d-flex align-self-stretch ftco-animate">
           <div class="media block-6 services d-block">
@@ -501,7 +506,7 @@
           </p>
         </div>
       </div>
-      <div class="row ftco-animate">
+      <!-- <div class="row ftco-animate">
         <div class="col-md-12">
           <div class="carousel-testimony owl-carousel">
             <div class="item">
@@ -623,7 +628,204 @@
           </div>
         </div>
       </div>
-    </div>
+    </div> -->
+
+      <div class="container">
+        <div class="custom-slide-container swiper">
+          <div class="custom-slide-content px-2 ">
+            <!-- <h1 class="text-center inter mt-4 ">our distributors</h1> -->
+            <div class="custom-card-wrapper swiper-wrapper py-5 ">
+
+              <div class="custom-card custom_card_bg_one swiper-slide ">
+              <div class="item">
+              <div class="testimony-wrap p-4 pb-5">
+                <div
+                  class="user-img mb-5"
+                  style="background-image: url(images/review.png)">
+
+                  <span
+                    class="quote d-flex align-items-center justify-content-center">
+                    <i class="icon-quote-left"></i>
+                  </span>
+                </div>
+                <div class="text">
+                  <p class="mb-5 pl-4 line">
+                    Working with Foton Decors was a fantastic experience. They
+                    executed our renovation project with precision,
+                    transforming our space into something beautiful and
+                    timeless. Highly recommended
+                  </p>
+                  <div class="pl-5">
+                    <p class="name">Mallidi Gangi Reddy</p>
+                  </div>
+                </div>
+              </div>
+            </div>
+
+              </div>
+
+              <div class="custom-card custom_card_bg_two swiper-slide">
+              <div class="item">
+              <div class="testimony-wrap p-4 pb-5">
+                <div
+                  class="user-img mb-5"
+                  style="background-image: url(images/review.png)">
+
+                  <span
+                    class="quote d-flex align-items-center justify-content-center">
+                    <i class="icon-quote-left"></i>
+                  </span>
+                </div>
+                <div class="text">
+                  <p class="mb-5 pl-4 line">
+                    From start to finish, Foton Decors provided outstanding
+                    service. Their designs are creative, functional, and truly
+                    reflect our style. We’re thrilled with our new home
+                  </p>
+                  <div class="pl-5">
+                    <p class="name">Bala Krishna</p>
+                  </div>
+                </div>
+              </div>
+            </div>
+              </div>
+
+              <div class="custom-card custom_card_bg_three swiper-slide">
+              <div class="item">
+              <div class="testimony-wrap p-4 pb-5">
+                <div
+                  class="user-img mb-5"
+                  style="background-image: url(images/review.png)">
+
+                  <span
+                    class="quote d-flex align-items-center justify-content-center">
+                    <i class="icon-quote-left"></i>
+                  </span>
+                </div>
+                <div class="text">
+                  <p class="mb-5 pl-4 line">
+                    The team at Foton Decors.com is exceptional. They listened
+                    to our needs, and their design expertise exceeded our
+                    expectations. Our new kitchen is both stylish and
+                    practical
+                  </p>
+                  <div class="pl-5">
+                    <p class="name">Narasimha Rao</p>
+                  </div>
+                </div>
+              </div>
+            </div>
+              </div>
+
+              <div class="custom-card custom_card_bg_one swiper-slide">
+              <div class="item">
+              <div class="testimony-wrap p-4 pb-5">
+                <div
+                  class="user-img mb-5"
+                  style="background-image: url(images/review.png)">
+
+                  <span
+                    class="quote d-flex align-items-center justify-content-center">
+                    <i class="icon-quote-left"></i>
+                  </span>
+                </div>
+                <div class="text">
+                  <p class="mb-5 pl-4 line">
+                    I couldn't be happier with the work Foton Decors did on my
+                    office space. Their modern approach transformed it into a
+                    functional and stylish work environment. Truly impressive!
+                  </p>
+                  <div class="pl-5">
+                    <p class="name">Bhavani Shanker</p>
+                  </div>
+                </div>
+              </div>
+            </div>
+              </div>
+
+
+              <div class="custom-card custom_card_bg_two swiper-slide">
+              <div class="item">
+              <div class="testimony-wrap p-4 pb-5">
+                <div
+                  class="user-img mb-5"
+                  style="background-image: url(images/review.png)">
+                  <span
+                    class="quote d-flex align-items-center justify-content-center">
+                    <i class="icon-quote-left"></i>
+                  </span>
+                </div>
+                <div class="text">
+                  <p class="mb-5 pl-4 line">
+                    Foton Decors brought my dream home to life with their
+                    innovative design solutions. Their attention to detail and
+                    commitment to quality is unmatched. Highly recommend
+                  </p>
+                  <div class="pl-5">
+                    <p class="name">Narendra Chowdary</p>
+                  </div>
+                </div>
+              </div>
+            </div>
+              </div>
+
+             
+
+
+
+
+            </div>
+          </div>
+
+          <!-- <div class="swiper-button-next custom-swiper-navBtn"></div>
+          <div class="swiper-button-prev custom-swiper-navBtn"></div> -->
+          <!-- <div class="custom-swiper-pagination position_og_peagination"></div>
+  </div> -->
+        </div>
+      </div>
+      <script>
+        var swiper = new Swiper(".custom-slide-content", {
+          slidesPerView: 3,
+          spaceBetween: 15,
+          loop: true,
+          centerSlide: 'true',
+          fade: 'true',
+          grabCursor: 'true',
+          pagination: {
+            el: ".custom-swiper-pagination",
+            clickable: true,
+            dynamicBullets: true,
+          },
+          autoplay: {
+            delay: 3000, // Time in milliseconds between automatic slides (3 seconds here)
+            disableOnInteraction: false, // Keeps autoplay active even after manual swiping
+          },
+          navigation: {
+            nextEl: ".swiper-button-next.custom-swiper-navBtn",
+            prevEl: ".swiper-button-prev.custom-swiper-navBtn",
+          },
+
+          breakpoints: {
+            0: {
+              slidesPerView: 1,
+            },
+            520: {
+              slidesPerView: 2,
+            },
+            950: {
+              slidesPerView: 3,
+            },
+          },
+        });
+      </script>
+
+
+
+
+
+
+
+
   </section>
 
   <!-- <section class="ftco-section ftco-client">

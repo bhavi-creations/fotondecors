@@ -126,7 +126,7 @@
     </div>
   </section>
 
-  <!-- <section class="exterior mt-2">
+  <section class="exterior mt-2">
     <div class="container">
       <div class="row">
         <div class="col-12 col-md-6">
@@ -142,13 +142,13 @@
           <div class="strong">Safety: </div>Include features like non-slip pathways, security systems, and well-lit entrances.</p>
         </div>
         <div class="col-12 col-md-6 ">
-          <div class="homes-slider image_slider exterior_img ">
-            <div class="slider-item" style="background-image: url('images/11.png');"></div>
-            <div class="slider-item" style="background-image: url('images/22.png');"></div>
-            <div class="slider-item" style="background-image: url('images/33.png');"></div>
-            <div class="slider-item" style="background-image: url('images/44.png');"></div>
-            <div class="slider-item" style="background-image: url('images/55.png');"></div>
-            <div class="slider-item" style="background-image: url('images/66.png');"></div>
+          <div   class="homes-slider image_slider exterior_img slider">
+            <div   class="slider-item items"  style="background-image: url('images/11.png');"></div>
+            <div  class="slider-item items" style="background-image: url('images/22.png');"></div>
+            <div  class="slider-item items" style="background-image: url('images/33.png');"></div>
+            <div    class="slider-item items" style="background-image: url('images/44.png');"></div>
+            <div   class="slider-item items" style="background-image: url('images/55.png');"></div>
+            <div   class="slider-item items"   style="background-image: url('images/66.png');"></div>
           </div>
 
         </div>
@@ -158,35 +158,35 @@
 
 
       <!-- Add this JavaScript -->
-      <!-- <script>
+      <script>
         document.addEventListener("DOMContentLoaded", function() {
           const sliderItems = document.querySelectorAll(".slider-item");
           let currentIndex = 0;
 
-    e
+          // Function to move to the next slide
           function showNextSlide() {
-         
+            // Remove 'active' class from the current slide
             sliderItems[currentIndex].classList.remove("active");
 
-        
+            // Increment the index, and loop back to the first slide if we reach the last
             currentIndex = (currentIndex + 1) % sliderItems.length;
 
-         
+            // Add 'active' class to the next slide
             sliderItems[currentIndex].classList.add("active");
           }
 
-        
+          // Initially show the first slide
           sliderItems[currentIndex].classList.add("active");
 
-        
+          // Change slide every 3 seconds (3000ms)
           setInterval(showNextSlide, 3000);
         });
-      </script> -->
+      </script>
 
 
-    <!-- </div>
     </div>
-  </section>  -->
+    </div>
+  </section>
 
   <div class="container">
     <div class="custom-slide-container swiper">
