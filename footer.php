@@ -75,7 +75,7 @@
               6-1-6, Jawahar St, near Nookalamma Temple, opposite Ganapathi Towers, Rama Rao Peta, Kakinada, Andhra Pradesh 533001
               </p>
               <p>
-                Call Us : +91 88826 59999, +91 88826 56789, 
+                Call Us : +91 88826 59999,  <br> +91 88826 56789 
               </p>
               <!-- //+91 866 257 2578// -->
               <ul
