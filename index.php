@@ -120,11 +120,9 @@
             class="one-forth d-flex js-fullheight align-items-center ftco-animate"
             data-scrollax=" properties: { translateY: '70%' }">
             <div class="text">
-              <h1 class="mb-4">We Create Amazing Architecture Designs</h1>
+              <h1 class="mb-4"> Weatherproof & Long-Lasting</h1>
               <p>
-                "We bring your vision to life with stunning architectural
-                designs, creating innovative, functional, and timeless spaces
-                that inspire."
+                "Steel doors are highly durable, weather-resistant, and designed for maximum security, making them ideal for homes and businesses"
               </p>
               <p>
                 <a href="blogs.php" class="btn btn-primary px-4 py-3 mt-3">View our works</a>
@@ -150,11 +148,9 @@
             class="one-forth d-flex js-fullheight align-items-center ftco-animate"
             data-scrollax=" properties: { translateY: '70%' }">
             <div class="text">
-              <h1 class="mb-4">We Create Amazing Architecture Designs</h1>
+              <h1 class="mb-4">Energy-efficient, Durable, Stylish UPVC Windows!</h1>
               <p>
-                "We bring your vision to life with stunning architectural
-                designs, creating innovative, functional, and timeless spaces
-                that inspire."
+                "UPVC windows offer exceptional durability, superior insulation, and low maintenance, making them the ideal choice for modern homes. "
               </p>
               <p>
                 <a href="blogs.php" class="btn btn-primary px-4 py-3 mt-3">View our works</a>
@@ -180,11 +176,9 @@
             class="one-forth d-flex js-fullheight align-items-center ftco-animate"
             data-scrollax=" properties: { translateY: '70%' }">
             <div class="text">
-              <h1 class="mb-4">We Create Amazing Architecture Designs</h1>
+              <h1 class="mb-4">Stylish, Functional, Customizable Modular Kitchens</h1>
               <p>
-                "We bring your vision to life with stunning architectural
-                designs, creating innovative, functional, and timeless spaces
-                that inspire."
+                "Modular kitchens offer sleek, modern designs that maximize space, efficiency, and style, with customizable storage solutions to enhance your home."
               </p>
               <p>
                 <a href="blogs.php" class="btn btn-primary px-4 py-3 mt-3">View our works</a>
@@ -210,11 +204,9 @@
             class="one-forth d-flex js-fullheight align-items-center ftco-animate"
             data-scrollax=" properties: { translateY: '70%' }">
             <div class="text">
-              <h1 class="mb-4">We Create Amazing Architecture Designs</h1>
+              <h1 class="mb-4">Durable, Smooth, Premium Powder Coating</h1>
               <p>
-                "We bring your vision to life with stunning architectural
-                designs, creating innovative, functional, and timeless spaces
-                that inspire."
+                "Powder coating provides a durable, high-quality finish that resists chipping, scratching, and fading. Ideal for metal surfaces, it offers a smooth, long-lasting protective layer in a variety of colors"
               </p>
               <p>
                 <a href="blogs.php" class="btn btn-primary px-4 py-3 mt-3">View our works</a>
@@ -240,7 +232,7 @@
             class="one-forth d-flex js-fullheight align-items-center ftco-animate"
             data-scrollax=" properties: { translateY: '70%' }">
             <div class="text">
-              <h1 class="mb-4">We Create Amazing Architecture Designs</h1>
+              <h1 class="mb-4">interiors with stylish, durable laminated doors for a modern</h1>
               <p>
                 "We bring your vision to life with stunning architectural
                 designs, creating innovative, functional, and timeless spaces
