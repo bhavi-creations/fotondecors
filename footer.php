@@ -64,11 +64,7 @@
             class="ftco-footer-social list-unstyled float-md-left float-lft mt-3">
 
 
-            <li class="ftco-animate" >
-              <a href="#" style="display: flex; align-items: center; justify-content: center;">
-                <i class="fa-brands fa-x-twitter" style="font-size: 18px;"></i>
-              </a>
-            </li>
+           
 
 
             <li class="ftco-animate">
@@ -76,6 +72,10 @@
             </li>
             <li class="ftco-animate">
               <a href="#"><span class="icon-instagram"></span></a>
+            </li> <li class="ftco-animate" >
+              <a href="#" style="display: flex; align-items: center; justify-content: center;">
+                <i class="fa-brands fa-x-twitter" style="font-size: 18px;"></i>
+              </a>
             </li>
           </ul>
         </div>

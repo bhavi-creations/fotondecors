@@ -55,7 +55,7 @@
           <div
             class="one-third order-md-last img js-fullheight"
             style="background-image: url(images/bg_1.jpg)">
-            <h3 class="vr">Architecture Firm</h3>
+            <h3 class="vr">Since - 2014</h3>
           </div>
           <div
             class="one-forth d-flex js-fullheight align-items-center ftco-animate"
@@ -225,6 +225,125 @@
       </div>
     </div>
 
+    <div class="slider-item js-fullheight">
+      <div class="overlay"></div>
+      <div class="container">
+        <div
+          class="row d-flex no-gutters slider-text js-fullheight align-items-center justify-content-end"
+          data-scrollax-parent="true">
+          <div
+            class="one-third order-md-last img js-fullheight"
+            style="background-image: url(images/sliders/laminatedoors.png">
+            <h3 class="vr">Since - 2014</h3>
+          </div>
+          <div
+            class="one-forth d-flex js-fullheight align-items-center ftco-animate"
+            data-scrollax=" properties: { translateY: '70%' }">
+            <div class="text">
+              <h1 class="mb-4">We Create Amazing Architecture Designs</h1>
+              <p>
+                "We bring your vision to life with stunning architectural
+                designs, creating innovative, functional, and timeless spaces
+                that inspire."
+              </p>
+              <p>
+                <a href="blogs.php" class="btn btn-primary px-4 py-3 mt-3">View our works</a>
+              </p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="slider-item js-fullheight">
+      <div class="overlay"></div>
+      <div class="container">
+        <div
+          class="row d-flex no-gutters slider-text js-fullheight align-items-center justify-content-end"
+          data-scrollax-parent="true">
+          <div
+            class="one-third order-md-last img js-fullheight"
+            style="background-image: url(images/sliders/plywoodandlaminate.png">
+            <h3 class="vr">Since - 2014</h3>
+          </div>
+          <div
+            class="one-forth d-flex js-fullheight align-items-center ftco-animate"
+            data-scrollax=" properties: { translateY: '70%' }">
+            <div class="text">
+              <h1 class="mb-4">We Create Amazing Architecture Designs</h1>
+              <p>
+                "We bring your vision to life with stunning architectural
+                designs, creating innovative, functional, and timeless spaces
+                that inspire."
+              </p>
+              <p>
+                <a href="blogs.php" class="btn btn-primary px-4 py-3 mt-3">View our works</a>
+              </p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div class="slider-item js-fullheight">
+      <div class="overlay"></div>
+      <div class="container">
+        <div
+          class="row d-flex no-gutters slider-text js-fullheight align-items-center justify-content-end"
+          data-scrollax-parent="true">
+          <div
+            class="one-third order-md-last img js-fullheight"
+            style="background-image: url(images/sliders/wpcdoorsandwpcwindows.png">
+            <h3 class="vr">Since - 2014</h3>
+          </div>
+          <div
+            class="one-forth d-flex js-fullheight align-items-center ftco-animate"
+            data-scrollax=" properties: { translateY: '70%' }">
+            <div class="text">
+              <h1 class="mb-4">We Create Amazing Architecture Designs</h1>
+              <p>
+                "We bring your vision to life with stunning architectural
+                designs, creating innovative, functional, and timeless spaces
+                that inspire."
+              </p>
+              <p>
+                <a href="blogs.php" class="btn btn-primary px-4 py-3 mt-3">View our works</a>
+              </p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+
+    <div class="slider-item js-fullheight">
+      <div class="overlay"></div>
+      <div class="container">
+        <div
+          class="row d-flex no-gutters slider-text js-fullheight align-items-center justify-content-end"
+          data-scrollax-parent="true">
+          <div
+            class="one-third order-md-last img js-fullheight"
+            style="background-image: url(images/sliders/cncfiberlasercuttingnadmetalcutting.png">
+            <h3 class="vr">Since - 2014</h3>
+          </div>
+          <div
+            class="one-forth d-flex js-fullheight align-items-center ftco-animate"
+            data-scrollax=" properties: { translateY: '70%' }">
+            <div class="text">
+              <h1 class="mb-4">We Create Amazing Architecture Designs</h1>
+              <p>
+                "We bring your vision to life with stunning architectural
+                designs, creating innovative, functional, and timeless spaces
+                that inspire."
+              </p>
+              <p>
+                <a href="blogs.php" class="btn btn-primary px-4 py-3 mt-3">View our works</a>
+              </p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
   </section>
 
   <section class="ftco-section ftc-no-pb  need_space">
@@ -238,7 +357,7 @@
 
 
             <div class="video-container  ">
-              <video width="100%" autoplay loop controls>
+              <video width="100%" autoplay loop controls muted>
                 <source src="images/Foton decors all services.mp4" type="video/mp4">
                 Your browser does not support the video tag.
               </video>

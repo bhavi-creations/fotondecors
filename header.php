@@ -39,9 +39,40 @@
                 <li class="nav-item <?= basename($_SERVER['PHP_SELF']) == 'about.php' ? 'active' : '' ?>">
                     <a href="about.php" class="nav-link">About Us</a>
                 </li>
-                <li class="nav-item <?= basename($_SERVER['PHP_SELF']) == 'products.php' ? 'active' : '' ?>">
-                    <a href="products.php" class="nav-link">Products</a>
+
+
+
+                <li class="nav-item dropdown <?= basename($_SERVER['PHP_SELF']) == 'products.php' ? 'active' : '' ?>">
+                    <a href="products.php" class="nav-link dropdown-toggle" id="productsDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                        Products
+                    </a>
+                    <ul class="dropdown-menu" aria-labelledby="productsDropdown">
+                        <div class="row">
+                            <div class="col-6">
+                                <li><a class="dropdown-item" href="steel_doors.php">Steel Doors</a></li>
+                                <li><a class="dropdown-item" href="steel_windows.php">Steel Windows</a></li>
+                                <li><a class="dropdown-item" href="upvcwindows.php">UPVC Windows</a></li>
+                                <li><a class="dropdown-item" href="modularkitchens.php">Modular Kitchens</a></li>
+                                <li><a class="dropdown-item" href="modular_wardrobes.php">Modular Wardrobes</a></li>
+                                <li><a class="dropdown-item" href="modular_tv.php">Modular Tv Units</a></li>
+                                <li><a class="dropdown-item" href="powder_coating.php">Powder Coating</a></li>
+                            </div>
+                            <div class="col-6">
+                                <li><a class="dropdown-item" href="wpc_doors.php">WPC Doors</a></li>
+                                <li><a class="dropdown-item" href="wpc_door_frames.php">WPC Doors Frames</a></li>
+                                <li><a class="dropdown-item" href="laminate_doors.php">Laminate Doors</a></li>
+                                <li><a class="dropdown-item" href="cnc_fiber_laser.php">  CNC Fiber Laser Cutting</a></li>
+                                <li><a class="dropdown-item" href="cnc_metal_bending.php">CNC Metal Cutting </a></li>
+                                <li><a class="dropdown-item" href="playwoods.php">Play Woods</a></li>
+                                <li><a class="dropdown-item" href="laminater.php">  Laminater</a></li>
+                            </div>
+                        </div>
+                    </ul>
                 </li>
+
+
+
+
                 <li class="nav-item <?= basename($_SERVER['PHP_SELF']) == 'blogs.php' ? 'active' : '' ?>">
                     <a href="blogs.php" class="nav-link">Gallery</a>
                 </li>
@@ -75,21 +106,23 @@
                                     d="M15.964.686a.5.5 0 0 0-.65-.65L.767 5.855H.766l-.452.18a.5.5 0 0 0-.082.887l.41.26.001.002 4.995 3.178 3.178 4.995.002.002.26.41a.5.5 0 0 0 .886-.083zm-1.833 1.89L6.637 10.07l-.215-.338a.5.5 0 0 0-.154-.154l-.338-.215 7.494-7.494 1.178-.471z"></path>
                             </svg>
                         </span>
-                        <span class="tooltip1">
-                            <svg
-                                xmlns="http://www.w3.org/2000/svg"
-                                width="20"
-                                height="20"
-                                class="bi bi-x-twitter"
-                                viewBox="0 0 24 24"
-                                fill="black"
-                                stroke="black"
-                                stroke-width="1">
-                                <path d="M12.878 10.292L22 0h-2.991L11.48 9.297 5.09 0H0l9.612 13.908L0 24h2.99l8.85-9.408L18.91 24H24l-11.122-13.708z" />
-                            </svg>
 
+                        <a href="https://www.facebook.com/fotondecors" target="_blank" class="icon_text_style">
+                            <span class="tooltip1">
+                                <svg
+                                    xmlns="http://www.w3.org/2000/svg"
+                                    width="20"
+                                    height="20"
+                                    class="bi bi-x-twitter"
+                                    viewBox="0 0 24 24"
+                                    fill="black"
+                                    stroke="black"
+                                    stroke-width="1">
+                                    <path d="M12.878 10.292L22 0h-2.991L11.48 9.297 5.09 0H0l9.612 13.908L0 24h2.99l8.85-9.408L18.91 24H24l-11.122-13.708z" />
+                                </svg>
+                            </span>
+                        </a>
 
-                        </span>
                         <!-- <span class="tooltip2">
                           
 
@@ -103,38 +136,43 @@
                                     d="M13.545 2.907a13.2 13.2 0 0 0-3.257-1.011.05.05 0 0 0-.052.025c-.141.25-.297.577-.406.833a12.2 12.2 0 0 0-3.658 0 8 8 0 0 0-.412-.833.05.05 0 0 0-.052-.025c-1.125.194-2.22.534-3.257 1.011a.04.04 0 0 0-.021.018C.356 6.024-.213 9.047.066 12.032q.003.022.021.037a13.3 13.3 0 0 0 3.995 2.02.05.05 0 0 0 .056-.019q.463-.63.818-1.329a.05.05 0 0 0-.01-.059l-.018-.011a9 9 0 0 1-1.248-.595.05.05 0 0 1-.02-.066l.015-.019q.127-.095.248-.195a.05.05 0 0 1 .051-.007c2.619 1.196 5.454 1.196 8.041 0a.05.05 0 0 1 .053.007q.121.1.248.195a.05.05 0 0 1-.004.085 8 8 0 0 1-1.249.594.05.05 0 0 0-.03.03.05.05 0 0 0 .003.041c.24.465.515.909.817 1.329a.05.05 0 0 0 .056.019 13.2 13.2 0 0 0 4.001-2.02.05.05 0 0 0 .021-.037c.334-3.451-.559-6.449-2.366-9.106a.03.03 0 0 0-.02-.019m-8.198 7.307c-.789 0-1.438-.724-1.438-1.612s.637-1.613 1.438-1.613c.807 0 1.45.73 1.438 1.613 0 .888-.637 1.612-1.438 1.612m5.316 0c-.788 0-1.438-.724-1.438-1.612s.637-1.613 1.438-1.613c.807 0 1.451.73 1.438 1.613 0 .888-.631 1.612-1.438 1.612"></path>
                             </svg>
                         </span> -->
-                        <span class="tooltip3">
-                            <svg
-                                xmlns="http://www.w3.org/2000/svg"
-                                width="24"
-                                height="24"
-                                viewBox="0 0 24 24">
-                                <defs>
-                                    <linearGradient id="instagramGradient" x1="0%" y1="0%" x2="100%" y2="100%">
-                                        <stop offset="0%" style="stop-color:#fdf497;stop-opacity:1" />
-                                        <stop offset="50%" style="stop-color:#fd5949;stop-opacity:1" />
-                                        <stop offset="100%" style="stop-color:#d6249f;stop-opacity:1" />
-                                    </linearGradient>
-                                </defs>
-                                <path fill="url(#instagramGradient)" d="M7.5 2h9A5.5 5.5 0 0 1 22 7.5v9A5.5 5.5 0 0 1 16.5 22h-9A5.5 5.5 0 0 1 2 16.5v-9A5.5 5.5 0 0 1 7.5 2zm0-2A7.5 7.5 0 0 0 0 7.5v9A7.5 7.5 0 0 0 7.5 24h9A7.5 7.5 0 0 0 24 16.5v-9A7.5 7.5 0 0 0 16.5 0h-9z" />
-                                <path fill="#d6249f" d="M12 5.838a6.162 6.162 0 1 0 0 12.324 6.162 6.162 0 0 0 0-12.324zm0 10.162a3.999 3.999 0 1 1 0-7.998 3.999 3.999 0 0 1 0 7.998z" />
-                                <circle fill="#d6249f" cx="18.406" cy="5.595" r="1.439" />
-                            </svg>
+
+                        <a href="https://www.facebook.com/fotondecors" target="_blank" class="icon_text_style">
+                            <span class="tooltip3">
+                                <svg
+                                    xmlns="http://www.w3.org/2000/svg"
+                                    width="24"
+                                    height="24"
+                                    viewBox="0 0 24 24">
+                                    <defs>
+                                        <linearGradient id="instagramGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+                                            <stop offset="0%" style="stop-color:#fdf497;stop-opacity:1" />
+                                            <stop offset="50%" style="stop-color:#fd5949;stop-opacity:1" />
+                                            <stop offset="100%" style="stop-color:#d6249f;stop-opacity:1" />
+                                        </linearGradient>
+                                    </defs>
+                                    <path fill="url(#instagramGradient)" d="M7.5 2h9A5.5 5.5 0 0 1 22 7.5v9A5.5 5.5 0 0 1 16.5 22h-9A5.5 5.5 0 0 1 2 16.5v-9A5.5 5.5 0 0 1 7.5 2zm0-2A7.5 7.5 0 0 0 0 7.5v9A7.5 7.5 0 0 0 7.5 24h9A7.5 7.5 0 0 0 24 16.5v-9A7.5 7.5 0 0 0 16.5 0h-9z" />
+                                    <path fill="#d6249f" d="M12 5.838a6.162 6.162 0 1 0 0 12.324 6.162 6.162 0 0 0 0-12.324zm0 10.162a3.999 3.999 0 1 1 0-7.998 3.999 3.999 0 0 1 0 7.998z" />
+                                    <circle fill="#d6249f" cx="18.406" cy="5.595" r="1.439" />
+                                </svg>
+                            </span>
+                        </a>
+
+                        <a href="https://www.facebook.com/fotondecors" target="_blank" class="icon_text_style">
+                            <span class="tooltip4">
+                                <svg
+                                    xmlns="http://www.w3.org/2000/svg"
+                                    width="22"
+                                    height="22"
+                                    class="bi bi-facebook"
+                                    viewBox="0 0 16 16">
+                                    <path
+                                        d="M16 8.049c0-4.446-3.582-8.05-8-8.05C3.58 0-.002 3.603-.002 8.05c0 4.017 2.926 7.347 6.75 7.951v-5.625h-2.03V8.05H6.75V6.275c0-2.017 1.195-3.131 3.022-3.131.876 0 1.791.157 1.791.157v1.98h-1.009c-.993 0-1.303.621-1.303 1.258v1.51h2.218l-.354 2.326H9.25V16c3.824-.604 6.75-3.934 6.75-7.951"></path>
+                                </svg>
+                            </span>
+                        </a>
 
 
-                        </span>
-                        <span class="tooltip4">
-                            <a href="https://www.facebook.com/fotondecors" target="_blank" class="icon_text_style">
-                            <svg
-                                xmlns="http://www.w3.org/2000/svg"
-                                width="22"
-                                height="22"
-                                class="bi bi-facebook"
-                                viewBox="0 0 16 16">
-                                <path
-                                    d="M16 8.049c0-4.446-3.582-8.05-8-8.05C3.58 0-.002 3.603-.002 8.05c0 4.017 2.926 7.347 6.75 7.951v-5.625h-2.03V8.05H6.75V6.275c0-2.017 1.195-3.131 3.022-3.131.876 0 1.791.157 1.791.157v1.98h-1.009c-.993 0-1.303.621-1.303 1.258v1.51h2.218l-.354 2.326H9.25V16c3.824-.604 6.75-3.934 6.75-7.951"></path>
-                            </svg></a>
-                        </span>
                         <!-- <span class="tooltip5">
                             <svg
                                 xmlns="http://www.w3.org/2000/svg"

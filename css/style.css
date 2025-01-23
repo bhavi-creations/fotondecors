@@ -11584,6 +11584,7 @@ h5,
   }
 }
 
+ 
 .ftco-navbar-light .navbar-nav>.nav-item>.nav-link {
   padding-top: 1.5rem;
   padding-bottom: 1.5rem;
@@ -14436,10 +14437,40 @@ color: grey;
 /* Fim do tooltip facebook */
 
 /* Inicio do tooltip whatsApp */
+
+ @media (max-width:768px){
+  
+  .tooltip3 {
+    left: 45%;
+  }
+  .tooltip4 {
+    left: 20%;
+  }
+
+}
+@media (min-width:768px) and  (max-width:992px) {
+  
+  .tooltip3 {
+    left: 47%;
+  }
+  .tooltip4 {
+    left: 37%;
+  }
+
+}
+ @media (min-width:992px){
+  
+  .tooltip3 {
+    left: 10%;
+  }
+  .tooltip4 {
+    left: -200%;
+  }
+}
+
 .tooltip3 {
   position: absolute;
   top: 100%;
-  left: 10%;
   transform: translateX(80%);
   opacity: 0;
   visibility: hidden;
@@ -14473,7 +14504,6 @@ color: grey;
 .tooltip4 {
   position: absolute;
   top: 100%;
-  left: -200%;
   transform: translateX(70%);
   opacity: 0;
   visibility: hidden;
@@ -14679,4 +14709,40 @@ background black acima*/
 
 .icon_text_style{
   text-decoration: none !important;
+
+}
+
+
+.more_modles_styles{
+  font-size: 30px !important;
+  font-weight: 900;
+}
+
+
+@media (min-width:992px) {
+  .dropdown-menu {
+ 
+    margin-left: -50px;
+
+  }
+  
+}
+
+
+@media (max-width:992px) {
+  .dropdown-menu {
+ 
+    margin-left: -25px;
+
+  }
+  
+}
+
+.dropdown-menu {
+ 
+  min-width: 420px;  /* Adjust width as needed */
+}
+
+.dropdown-menu .row {
+  padding: 10px;
 }
