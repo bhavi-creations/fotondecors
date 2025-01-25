@@ -148,7 +148,7 @@
             class="one-forth d-flex js-fullheight align-items-center ftco-animate"
             data-scrollax=" properties: { translateY: '70%' }">
             <div class="text">
-              <h1 class="mb-4">Energy-efficient, Durable, Stylish UPVC Windows!</h1>
+              <h1 class="mb-4">Energy-efficient, Durable, Stylish </h1>
               <p>
                 "UPVC windows offer exceptional durability, superior insulation, and low maintenance, making them the ideal choice for modern homes. "
               </p>
@@ -176,7 +176,7 @@
             class="one-forth d-flex js-fullheight align-items-center ftco-animate"
             data-scrollax=" properties: { translateY: '70%' }">
             <div class="text">
-              <h1 class="mb-4">Stylish, Functional, Customizable Modular Kitchens</h1>
+              <h1 class="mb-4">Stylish, Functional, Customizable </h1>
               <p>
                 "Modular kitchens offer sleek, modern designs that maximize space, efficiency, and style, with customizable storage solutions to enhance your home."
               </p>
@@ -232,11 +232,9 @@
             class="one-forth d-flex js-fullheight align-items-center ftco-animate"
             data-scrollax=" properties: { translateY: '70%' }">
             <div class="text">
-              <h1 class="mb-4">interiors with stylish, durable laminated doors for a modern</h1>
+              <h1 class="mb-4">Stylish, durable laminated doors  </h1>
               <p>
-                "We bring your vision to life with stunning architectural
-                designs, creating innovative, functional, and timeless spaces
-                that inspire."
+                "Laminated doors provide excellent durability, stylish aesthetics, and low maintenance, making them a perfect choice for contemporary interiors."
               </p>
               <p>
                 <a href="blogs.php" class="btn btn-primary px-4 py-3 mt-3">View our works</a>
@@ -261,11 +259,9 @@
             class="one-forth d-flex js-fullheight align-items-center ftco-animate"
             data-scrollax=" properties: { translateY: '70%' }">
             <div class="text">
-              <h1 class="mb-4">We Create Amazing Architecture Designs</h1>
+              <h1 class="mb-4">"Durable, Stylish, Versatile, Low-Maintenance."  </h1>
               <p>
-                "We bring your vision to life with stunning architectural
-                designs, creating innovative, functional, and timeless spaces
-                that inspire."
+                "Plywood and laminate combine durability, style, and ease of maintenance, making them a smart and versatile choice for enhancing modern interiors."
               </p>
               <p>
                 <a href="blogs.php" class="btn btn-primary px-4 py-3 mt-3">View our works</a>
@@ -291,11 +287,9 @@
             class="one-forth d-flex js-fullheight align-items-center ftco-animate"
             data-scrollax=" properties: { translateY: '70%' }">
             <div class="text">
-              <h1 class="mb-4">We Create Amazing Architecture Designs</h1>
+              <h1 class="mb-4">"Durable, Stylish, Eco-friendly, Low-maintenance."</h1>
               <p>
-                "We bring your vision to life with stunning architectural
-                designs, creating innovative, functional, and timeless spaces
-                that inspire."
+                "WPC doors and WPC windows deliver outstanding strength, weather resistance, and minimal upkeep, making them a smart and sustainable choice for contemporary spaces."
               </p>
               <p>
                 <a href="blogs.php" class="btn btn-primary px-4 py-3 mt-3">View our works</a>
@@ -322,11 +316,9 @@
             class="one-forth d-flex js-fullheight align-items-center ftco-animate"
             data-scrollax=" properties: { translateY: '70%' }">
             <div class="text">
-              <h1 class="mb-4">We Create Amazing Architecture Designs</h1>
+              <h1 class="mb-4">Precision. Efficiency. Versatility. Quality. Innovation</h1>
               <p>
-                "We bring your vision to life with stunning architectural
-                designs, creating innovative, functional, and timeless spaces
-                that inspire."
+                "CNC fiber laser cutting and metal cutting provide unmatched precision, efficiency, and versatility, making them the ideal solution for intricate designs and high-quality finishes in modern manufacturing."
               </p>
               <p>
                 <a href="blogs.php" class="btn btn-primary px-4 py-3 mt-3">View our works</a>

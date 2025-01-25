@@ -69,7 +69,7 @@
                             <div class="col-md-6 col-lg-3 ftco-animate">
                                 <div class="project">
                                     <img
-                                        src="images/kitchens/1.png"
+                                        src="images/tv_units/1.png"
                                         class="img-fluid"
                                         alt="Colorlib Template" />
                                     <div class="text">
@@ -77,7 +77,7 @@
                             <h3><a href="project.html">Office Interior Design</a></h3> -->
                                     </div>
                                     <a
-                                        href="images/kitchens/1.png"
+                                        href="images/tv_units/1.png"
                                         class="icon image-popup d-flex justify-content-center align-items-center">
                                         <span class="icon-expand"></span>
                                     </a>
@@ -86,7 +86,7 @@
                             <div class="col-md-6 col-lg-3 ftco-animate">
                                 <div class="project">
                                     <img
-                                        src="images/kitchens/2.png"
+                                        src="images/tv_units/2.png"
                                         class="img-fluid"
                                         alt="Colorlib Template" />
                                     <div class="text">
@@ -94,7 +94,7 @@
                             <h3>Office Interior Design</h3> -->
                                     </div>
                                     <a
-                                        href="images/kitchens/2.png"
+                                        href="images/tv_units/2.png"
                                         class="icon image-popup d-flex justify-content-center align-items-center">
                                         <span class="icon-expand"></span>
                                     </a>
@@ -103,7 +103,7 @@
                             <div class="col-md-6 col-lg-3 ftco-animate">
                                 <div class="project">
                                     <img
-                                        src="images/kitchens/3.png"
+                                        src="images/tv_units/3.png"
                                         class="img-fluid"
                                         alt="Colorlib Template" />
                                     <div class="text">
@@ -111,7 +111,7 @@
                             <h3>Office Interior Design</h3> -->
                                     </div>
                                     <a
-                                        href="images/kitchens/3.png"
+                                        href="images/tv_units/3.png"
                                         class="icon image-popup d-flex justify-content-center align-items-center">
                                         <span class="icon-expand"></span>
                                     </a>
@@ -120,7 +120,7 @@
                             <div class="col-md-6 col-lg-3 ftco-animate">
                                 <div class="project">
                                     <img
-                                        src="images/kitchens/4.png"
+                                        src="images/tv_units/4.png"
                                         class="img-fluid"
                                         alt="Colorlib Template" />
                                     <div class="text">
@@ -128,7 +128,7 @@
                             <h3>Office Interior Design</h3> -->
                                     </div>
                                     <a
-                                        href="images/kitchens/4.png"
+                                        href="images/tv_units/4.png"
                                         class="icon image-popup d-flex justify-content-center align-items-center">
                                         <span class="icon-expand"></span>
                                     </a>
@@ -137,7 +137,7 @@
                             <div class="col-md-6 col-lg-3 ftco-animate">
                                 <div class="project">
                                     <img
-                                        src="images/kitchens/5.png"
+                                        src="images/tv_units/5.png"
                                         class="img-fluid"
                                         alt="Colorlib Template" />
                                     <div class="text">
@@ -145,7 +145,7 @@
                             <h3>Office Interior Design</h3> -->
                                     </div>
                                     <a
-                                        href="images/kitchens/5.png"
+                                        href="images/tv_units/5.png"
                                         class="icon image-popup d-flex justify-content-center align-items-center">
                                         <span class="icon-expand"></span>
                                     </a>
@@ -154,7 +154,7 @@
                             <div class="col-md-6 col-lg-3 ftco-animate">
                                 <div class="project">
                                     <img
-                                        src="images/kitchens/6.png"
+                                        src="images/tv_units/6.png"
                                         class="img-fluid"
                                         alt="Colorlib Template" />
                                     <div class="text">
@@ -162,7 +162,7 @@
                             <h3>Office Interior Design</h3> -->
                                     </div>
                                     <a
-                                        href="images/kitchens/6.png"
+                                        href="images/tv_units/6.png"
                                         class="icon image-popup d-flex justify-content-center align-items-center">
                                         <span class="icon-expand"></span>
                                     </a>
@@ -171,7 +171,7 @@
                             <div class="col-md-6 col-lg-3 ftco-animate">
                                 <div class="project">
                                     <img
-                                        src="images/kitchens/7.png"
+                                        src="images/tv_units/7.png"
                                         class="img-fluid"
                                         alt="Colorlib Template" />
                                     <div class="text">
@@ -179,7 +179,7 @@
                             <h3>Office Interior Design</h3> -->
                                     </div>
                                     <a
-                                        href="images/kitchens/7.png"
+                                        href="images/tv_units/7.png"
                                         class="icon image-popup d-flex justify-content-center align-items-center">
                                         <span class="icon-expand"></span>
                                     </a>
@@ -188,7 +188,7 @@
                             <div class="col-md-6 col-lg-3 ftco-animate">
                                 <div class="project">
                                     <img
-                                        src="images/kitchens/8.png"
+                                        src="images/tv_units/8.png"
                                         class="img-fluid"
                                         alt="Colorlib Template" />
                                     <div class="text">
@@ -196,7 +196,7 @@
                             <h3>Office Interior Design</h3> -->
                                     </div>
                                     <a
-                                        href="images/kitchens/8.png"
+                                        href="images/tv_units/8.png"
                                         class="icon image-popup d-flex justify-content-center align-items-center">
                                         <span class="icon-expand"></span>
                                     </a>
@@ -211,30 +211,30 @@
     </section>
 
 
-    <section>
+       <section>
         <div class="container">
-        <div class="col-md-4 heading-section ftco-animate">
-        <h1 class="mb-4">  More Modles </h1>
-             
-        </div>
+            <div class="col-md-4 heading-section ftco-animate">
+                <h1 class="mb-4"> More Modles </h1>
+
+            </div>
             <div class="row"> 
                 <div class="col-12 col-md-6 col-lg-4 my-3">
-                    <img src="images/kitchens/1.png" class="img-fluid" alt="">
+                    <img src="images/tv_unite_models/1.png" class="img-fluid" alt="">
                 </div>
                 <div class="col-12 col-md-6 col-lg-4 my-3">
-                    <img src="images/kitchens/1.png" class="img-fluid" alt="">
+                    <img src="images/tv_unite_models/2.png" class="img-fluid" alt="">
                 </div>
                 <div class="col-12 col-md-6 col-lg-4 my-3">
-                    <img src="images/kitchens/1.png" class="img-fluid" alt="">
+                    <img src="images/tv_unite_models/3.png" class="img-fluid" alt="">
                 </div>
                 <div class="col-12 col-md-6 col-lg-4 my-3">
-                    <img src="images/kitchens/1.png" class="img-fluid" alt="">
+                    <img src="images/tv_unite_models/4.png" class="img-fluid" alt="">
                 </div>
                 <div class="col-12 col-md-6 col-lg-4 my-3">
-                    <img src="images/kitchens/1.png" class="img-fluid" alt="">
+                    <img src="images/tv_unite_models/5.png" class="img-fluid" alt="">
                 </div>
                 <div class="col-12 col-md-6 col-lg-4 my-3">
-                    <img src="images/kitchens/1.png" class="img-fluid" alt="">
+                    <img src="images/tv_unite_models/6.png" class="img-fluid" alt="">
                 </div>
 
             </div>

@@ -213,28 +213,28 @@
 
     <section>
         <div class="container">
-        <div class="col-md-4 heading-section ftco-animate">
-        <h1 class="mb-4">  More Modles </h1>
-             
-        </div>
+            <div class="col-md-4 heading-section ftco-animate">
+                <h1 class="mb-4"> More Modles </h1>
+
+            </div>
             <div class="row"> 
                 <div class="col-12 col-md-6 col-lg-4 my-3">
-                    <img src="images/kitchens/1.png" class="img-fluid" alt="">
+                    <img src="images/kitchens_modles/1.png" class="img-fluid" alt="">
                 </div>
                 <div class="col-12 col-md-6 col-lg-4 my-3">
-                    <img src="images/kitchens/1.png" class="img-fluid" alt="">
+                    <img src="images/kitchens_modles/2.png" class="img-fluid" alt="">
                 </div>
                 <div class="col-12 col-md-6 col-lg-4 my-3">
-                    <img src="images/kitchens/1.png" class="img-fluid" alt="">
+                    <img src="images/kitchens_modles/3.png" class="img-fluid" alt="">
                 </div>
                 <div class="col-12 col-md-6 col-lg-4 my-3">
-                    <img src="images/kitchens/1.png" class="img-fluid" alt="">
+                    <img src="images/kitchens_modles/4.png" class="img-fluid" alt="">
                 </div>
                 <div class="col-12 col-md-6 col-lg-4 my-3">
-                    <img src="images/kitchens/1.png" class="img-fluid" alt="">
+                    <img src="images/kitchens_modles/5.png" class="img-fluid" alt="">
                 </div>
                 <div class="col-12 col-md-6 col-lg-4 my-3">
-                    <img src="images/kitchens/1.png" class="img-fluid" alt="">
+                    <img src="images/kitchens_modles/6.png" class="img-fluid" alt="">
                 </div>
 
             </div>

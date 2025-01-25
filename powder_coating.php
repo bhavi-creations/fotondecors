@@ -41,7 +41,7 @@
             <div class="row no-gutters slider-text align-items-center justify-content-center">
                 <div class="col-md-9 ftco-animate text-center">
                     <h1 class="mb-2 bread">Powder Coating Job Works </h1>
-                    <p class="breadcrumbs"><span class="mr-2"><a href="index.php">Home <i class="ion-ios-arrow-forward"></i></a></span> <span>  Powder Coating <i class="ion-ios-arrow-forward"></i></span></p>
+                    <p class="breadcrumbs"><span class="mr-2"><a href="index.php">Home <i class="ion-ios-arrow-forward"></i></a></span> <span> Powder Coating <i class="ion-ios-arrow-forward"></i></span></p>
                 </div>
             </div>
         </div>
@@ -54,12 +54,12 @@
         <div class="container">
             <div class="row justify-content-start mb-5 pb-2">
 
-                <div class="col-md-4 heading-section ftco-animate">
+                <div class="col-md-4 heading-section ftco-animate   ">
                     <span class="subheading subheading-with-line"><small class="pr-2 bg-white">Products</small></span>
-                    <h2 class="mb-4">Modular kitchens </h2>
+                    <h2 class="mb-4">Powder coating job works </h2>
                     <div class="mb-5">
                         <p>
-                            Transform your cooking space with Foton Decors' modular kitchens, where functionality meets elegance. Our designs are crafted to maximize storage, streamline workflows, and elevate aesthetics, making your kitchen the heart of your home. Choose from a wide range of materials, colors, and finishes to suit your style. With features like soft-close cabinets, pull-out drawers, and customizable layouts, we ensure a seamless cooking experience. Built with precision and durability, our kitchens blend practicality and luxury. Upgrade to a modular kitchen from Foton Decors for a space designed for modern living.</p>
+                            Foton Decors offers high-quality powder coating job works, providing durable and attractive finishes for a variety of materials. Our advanced coating process ensures smooth, even coverage, delivering excellent resistance to corrosion, abrasion, and weather conditions. We work with metals, aluminum, and other materials, offering a wide range of colors and textures to suit your needs. Whether for industrial, commercial, or custom applications, our powder coating services enhance the longevity and aesthetics of your products. Trust Foton Decors for superior, long-lasting powder coating solutions. </p>
                     </div>
                 </div>
 
@@ -69,7 +69,7 @@
                             <div class="col-md-6 col-lg-3 ftco-animate">
                                 <div class="project">
                                     <img
-                                        src="images/kitchens/1.png"
+                                        src="images/powder/1.png"
                                         class="img-fluid"
                                         alt="Colorlib Template" />
                                     <div class="text">
@@ -77,7 +77,7 @@
                             <h3><a href="project.html">Office Interior Design</a></h3> -->
                                     </div>
                                     <a
-                                        href="images/kitchens/1.png"
+                                        href="images/powder/1.png"
                                         class="icon image-popup d-flex justify-content-center align-items-center">
                                         <span class="icon-expand"></span>
                                     </a>
@@ -86,7 +86,7 @@
                             <div class="col-md-6 col-lg-3 ftco-animate">
                                 <div class="project">
                                     <img
-                                        src="images/kitchens/2.png"
+                                        src="images/powder/2.png"
                                         class="img-fluid"
                                         alt="Colorlib Template" />
                                     <div class="text">
@@ -94,7 +94,7 @@
                             <h3>Office Interior Design</h3> -->
                                     </div>
                                     <a
-                                        href="images/kitchens/2.png"
+                                        href="images/powder/2.png"
                                         class="icon image-popup d-flex justify-content-center align-items-center">
                                         <span class="icon-expand"></span>
                                     </a>
@@ -103,7 +103,7 @@
                             <div class="col-md-6 col-lg-3 ftco-animate">
                                 <div class="project">
                                     <img
-                                        src="images/kitchens/3.png"
+                                        src="images/powder/3.png"
                                         class="img-fluid"
                                         alt="Colorlib Template" />
                                     <div class="text">
@@ -111,7 +111,7 @@
                             <h3>Office Interior Design</h3> -->
                                     </div>
                                     <a
-                                        href="images/kitchens/3.png"
+                                        href="images/powder/3.png"
                                         class="icon image-popup d-flex justify-content-center align-items-center">
                                         <span class="icon-expand"></span>
                                     </a>
@@ -120,7 +120,7 @@
                             <div class="col-md-6 col-lg-3 ftco-animate">
                                 <div class="project">
                                     <img
-                                        src="images/kitchens/4.png"
+                                        src="images/powder/4.png"
                                         class="img-fluid"
                                         alt="Colorlib Template" />
                                     <div class="text">
@@ -128,7 +128,7 @@
                             <h3>Office Interior Design</h3> -->
                                     </div>
                                     <a
-                                        href="images/kitchens/4.png"
+                                        href="images/powder/4.png"
                                         class="icon image-popup d-flex justify-content-center align-items-center">
                                         <span class="icon-expand"></span>
                                     </a>
@@ -137,7 +137,7 @@
                             <div class="col-md-6 col-lg-3 ftco-animate">
                                 <div class="project">
                                     <img
-                                        src="images/kitchens/5.png"
+                                        src="images/powder/5.png"
                                         class="img-fluid"
                                         alt="Colorlib Template" />
                                     <div class="text">
@@ -145,7 +145,7 @@
                             <h3>Office Interior Design</h3> -->
                                     </div>
                                     <a
-                                        href="images/kitchens/5.png"
+                                        href="images/powder/5.png"
                                         class="icon image-popup d-flex justify-content-center align-items-center">
                                         <span class="icon-expand"></span>
                                     </a>
@@ -154,7 +154,7 @@
                             <div class="col-md-6 col-lg-3 ftco-animate">
                                 <div class="project">
                                     <img
-                                        src="images/kitchens/6.png"
+                                        src="images/powder/6.png"
                                         class="img-fluid"
                                         alt="Colorlib Template" />
                                     <div class="text">
@@ -162,7 +162,7 @@
                             <h3>Office Interior Design</h3> -->
                                     </div>
                                     <a
-                                        href="images/kitchens/6.png"
+                                        href="images/powder/6.png"
                                         class="icon image-popup d-flex justify-content-center align-items-center">
                                         <span class="icon-expand"></span>
                                     </a>
@@ -171,7 +171,7 @@
                             <div class="col-md-6 col-lg-3 ftco-animate">
                                 <div class="project">
                                     <img
-                                        src="images/kitchens/7.png"
+                                        src="images/powder/7.png"
                                         class="img-fluid"
                                         alt="Colorlib Template" />
                                     <div class="text">
@@ -179,7 +179,7 @@
                             <h3>Office Interior Design</h3> -->
                                     </div>
                                     <a
-                                        href="images/kitchens/7.png"
+                                        href="images/powder/7.png"
                                         class="icon image-popup d-flex justify-content-center align-items-center">
                                         <span class="icon-expand"></span>
                                     </a>
@@ -188,7 +188,7 @@
                             <div class="col-md-6 col-lg-3 ftco-animate">
                                 <div class="project">
                                     <img
-                                        src="images/kitchens/8.png"
+                                        src="images/powder/8.png"
                                         class="img-fluid"
                                         alt="Colorlib Template" />
                                     <div class="text">
@@ -196,7 +196,7 @@
                             <h3>Office Interior Design</h3> -->
                                     </div>
                                     <a
-                                        href="images/kitchens/8.png"
+                                        href="images/powder/8.png"
                                         class="icon image-popup d-flex justify-content-center align-items-center">
                                         <span class="icon-expand"></span>
                                     </a>
@@ -206,6 +206,9 @@
                     </div>
                 </div>
 
+
+
+
             </div>
         </div>
     </section>
@@ -213,28 +216,28 @@
 
     <section>
         <div class="container">
-        <div class="col-md-4 heading-section ftco-animate">
-        <h1 class="mb-4">  More Modles </h1>
-             
-        </div>
+            <div class="col-md-4 heading-section ftco-animate">
+                <h1 class="mb-4"> More Modles </h1>
+
+            </div>
             <div class="row"> 
                 <div class="col-12 col-md-6 col-lg-4 my-3">
-                    <img src="images/kitchens/1.png" class="img-fluid" alt="">
+                    <img src="images/powder_coating_jobs/1.png" class="img-fluid" alt="">
                 </div>
                 <div class="col-12 col-md-6 col-lg-4 my-3">
-                    <img src="images/kitchens/1.png" class="img-fluid" alt="">
+                    <img src="images/powder_coating_jobs/2.png" class="img-fluid" alt="">
                 </div>
                 <div class="col-12 col-md-6 col-lg-4 my-3">
-                    <img src="images/kitchens/1.png" class="img-fluid" alt="">
+                    <img src="images/powder_coating_jobs/3.png" class="img-fluid" alt="">
                 </div>
                 <div class="col-12 col-md-6 col-lg-4 my-3">
-                    <img src="images/kitchens/1.png" class="img-fluid" alt="">
+                    <img src="images/powder_coating_jobs/4.png" class="img-fluid" alt="">
                 </div>
                 <div class="col-12 col-md-6 col-lg-4 my-3">
-                    <img src="images/kitchens/1.png" class="img-fluid" alt="">
+                    <img src="images/powder_coating_jobs/5.png" class="img-fluid" alt="">
                 </div>
                 <div class="col-12 col-md-6 col-lg-4 my-3">
-                    <img src="images/kitchens/1.png" class="img-fluid" alt="">
+                    <img src="images/powder_coating_jobs/6.png" class="img-fluid" alt="">
                 </div>
 
             </div>

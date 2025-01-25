@@ -56,10 +56,10 @@
 
                 <div class="col-md-4 heading-section ftco-animate">
                     <span class="subheading subheading-with-line"><small class="pr-2 bg-white">Products</small></span>
-                    <h2 class="mb-4">Modular kitchens </h2>
+                    <h2 class="mb-4">CNC fiaber laser cutting & Bending job works</h2>
                     <div class="mb-5">
                         <p>
-                            Transform your cooking space with Foton Decors' modular kitchens, where functionality meets elegance. Our designs are crafted to maximize storage, streamline workflows, and elevate aesthetics, making your kitchen the heart of your home. Choose from a wide range of materials, colors, and finishes to suit your style. With features like soft-close cabinets, pull-out drawers, and customizable layouts, we ensure a seamless cooking experience. Built with precision and durability, our kitchens blend practicality and luxury. Upgrade to a modular kitchen from Foton Decors for a space designed for modern living.</p>
+                            we specialize in CNC fiber laser cutting and bending job works, offering precise and efficient solutions for all your fabrication needs. Our state-of-the-art machinery ensures clean, accurate cuts and bends on various materials, including metals and plastics. Whether it's for industrial, commercial, or customized projects, we deliver high-quality results with quick turnaround times. With attention to detail and a focus on precision, we cater to diverse industries, providing tailored solutions to meet your specific requirements. Trust Foton Decors for reliable CNC fiber laser cutting and bending services.</p>
                     </div>
                 </div>
 
@@ -69,7 +69,7 @@
                             <div class="col-md-6 col-lg-3 ftco-animate">
                                 <div class="project">
                                     <img
-                                        src="images/kitchens/1.png"
+                                        src="images/cnc/1.png"
                                         class="img-fluid"
                                         alt="Colorlib Template" />
                                     <div class="text">
@@ -77,7 +77,7 @@
                             <h3><a href="project.html">Office Interior Design</a></h3> -->
                                     </div>
                                     <a
-                                        href="images/kitchens/1.png"
+                                        href="images/cnc/1.png"
                                         class="icon image-popup d-flex justify-content-center align-items-center">
                                         <span class="icon-expand"></span>
                                     </a>
@@ -86,7 +86,7 @@
                             <div class="col-md-6 col-lg-3 ftco-animate">
                                 <div class="project">
                                     <img
-                                        src="images/kitchens/2.png"
+                                        src="images/cnc/2.png"
                                         class="img-fluid"
                                         alt="Colorlib Template" />
                                     <div class="text">
@@ -94,7 +94,7 @@
                             <h3>Office Interior Design</h3> -->
                                     </div>
                                     <a
-                                        href="images/kitchens/2.png"
+                                        href="images/cnc/2.png"
                                         class="icon image-popup d-flex justify-content-center align-items-center">
                                         <span class="icon-expand"></span>
                                     </a>
@@ -103,7 +103,7 @@
                             <div class="col-md-6 col-lg-3 ftco-animate">
                                 <div class="project">
                                     <img
-                                        src="images/kitchens/3.png"
+                                        src="images/cnc/3.png"
                                         class="img-fluid"
                                         alt="Colorlib Template" />
                                     <div class="text">
@@ -111,7 +111,7 @@
                             <h3>Office Interior Design</h3> -->
                                     </div>
                                     <a
-                                        href="images/kitchens/3.png"
+                                        href="images/cnc/3.png"
                                         class="icon image-popup d-flex justify-content-center align-items-center">
                                         <span class="icon-expand"></span>
                                     </a>
@@ -120,7 +120,7 @@
                             <div class="col-md-6 col-lg-3 ftco-animate">
                                 <div class="project">
                                     <img
-                                        src="images/kitchens/4.png"
+                                        src="images/cnc/4.png"
                                         class="img-fluid"
                                         alt="Colorlib Template" />
                                     <div class="text">
@@ -128,7 +128,7 @@
                             <h3>Office Interior Design</h3> -->
                                     </div>
                                     <a
-                                        href="images/kitchens/4.png"
+                                        href="images/cnc/4.png"
                                         class="icon image-popup d-flex justify-content-center align-items-center">
                                         <span class="icon-expand"></span>
                                     </a>
@@ -137,7 +137,7 @@
                             <div class="col-md-6 col-lg-3 ftco-animate">
                                 <div class="project">
                                     <img
-                                        src="images/kitchens/5.png"
+                                        src="images/cnc/5.png"
                                         class="img-fluid"
                                         alt="Colorlib Template" />
                                     <div class="text">
@@ -145,7 +145,7 @@
                             <h3>Office Interior Design</h3> -->
                                     </div>
                                     <a
-                                        href="images/kitchens/5.png"
+                                        href="images/cnc/5.png"
                                         class="icon image-popup d-flex justify-content-center align-items-center">
                                         <span class="icon-expand"></span>
                                     </a>
@@ -154,7 +154,7 @@
                             <div class="col-md-6 col-lg-3 ftco-animate">
                                 <div class="project">
                                     <img
-                                        src="images/kitchens/6.png"
+                                        src="images/cnc/6.png"
                                         class="img-fluid"
                                         alt="Colorlib Template" />
                                     <div class="text">
@@ -162,7 +162,7 @@
                             <h3>Office Interior Design</h3> -->
                                     </div>
                                     <a
-                                        href="images/kitchens/6.png"
+                                        href="images/cnc/6.png"
                                         class="icon image-popup d-flex justify-content-center align-items-center">
                                         <span class="icon-expand"></span>
                                     </a>
@@ -171,7 +171,7 @@
                             <div class="col-md-6 col-lg-3 ftco-animate">
                                 <div class="project">
                                     <img
-                                        src="images/kitchens/7.png"
+                                        src="images/cnc/7.png"
                                         class="img-fluid"
                                         alt="Colorlib Template" />
                                     <div class="text">
@@ -179,7 +179,7 @@
                             <h3>Office Interior Design</h3> -->
                                     </div>
                                     <a
-                                        href="images/kitchens/7.png"
+                                        href="images/cnc/7.png"
                                         class="icon image-popup d-flex justify-content-center align-items-center">
                                         <span class="icon-expand"></span>
                                     </a>
@@ -188,7 +188,7 @@
                             <div class="col-md-6 col-lg-3 ftco-animate">
                                 <div class="project">
                                     <img
-                                        src="images/kitchens/8.png"
+                                        src="images/cnc/8.png"
                                         class="img-fluid"
                                         alt="Colorlib Template" />
                                     <div class="text">
@@ -196,7 +196,7 @@
                             <h3>Office Interior Design</h3> -->
                                     </div>
                                     <a
-                                        href="images/kitchens/8.png"
+                                        href="images/cnc/8.png"
                                         class="icon image-popup d-flex justify-content-center align-items-center">
                                         <span class="icon-expand"></span>
                                     </a>
@@ -219,22 +219,22 @@
         </div>
             <div class="row"> 
                 <div class="col-12 col-md-6 col-lg-4 my-3">
-                    <img src="images/kitchens/1.png" class="img-fluid" alt="">
+                    <img src="images/cnc_metal_cutting/1.png" class="img-fluid" alt="">
                 </div>
                 <div class="col-12 col-md-6 col-lg-4 my-3">
-                    <img src="images/kitchens/1.png" class="img-fluid" alt="">
+                    <img src="images/cnc_metal_cutting/2.png" class="img-fluid" alt="">
                 </div>
                 <div class="col-12 col-md-6 col-lg-4 my-3">
-                    <img src="images/kitchens/1.png" class="img-fluid" alt="">
+                    <img src="images/cnc_metal_cutting/3.png" class="img-fluid" alt="">
                 </div>
                 <div class="col-12 col-md-6 col-lg-4 my-3">
-                    <img src="images/kitchens/1.png" class="img-fluid" alt="">
+                    <img src="images/cnc_metal_cutting/4.png" class="img-fluid" alt="">
                 </div>
                 <div class="col-12 col-md-6 col-lg-4 my-3">
-                    <img src="images/kitchens/1.png" class="img-fluid" alt="">
+                    <img src="images/cnc_metal_cutting/5.png" class="img-fluid" alt="">
                 </div>
                 <div class="col-12 col-md-6 col-lg-4 my-3">
-                    <img src="images/kitchens/1.png" class="img-fluid" alt="">
+                    <img src="images/cnc_metal_cutting/6.png" class="img-fluid" alt="">
                 </div>
 
             </div>
